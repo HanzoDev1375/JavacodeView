@@ -1,32 +1,17 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/gradle/wrapper/gradle-wrapper.properties",
+      "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/build.gradle",
       "selection": {
         "end": {
-          "column": 71,
-          "index": 136,
-          "line": 2
+          "column": 0,
+          "index": 0,
+          "line": 0
         },
         "start": {
-          "column": 71,
-          "index": 136,
-          "line": 2
-        }
-      }
-    },
-    {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/.github/workflows/android.yml",
-      "selection": {
-        "end": {
-          "column": 26,
-          "index": 471,
-          "line": 25
-        },
-        "start": {
-          "column": 26,
-          "index": 471,
-          "line": 25
+          "column": 0,
+          "index": 0,
+          "line": 0
         }
       }
     },
@@ -34,6 +19,21 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/app/build.gradle",
       "selection": {
         "end": {
+          "column": 50,
+          "index": 671,
+          "line": 31
+        },
+        "start": {
+          "column": 50,
+          "index": 671,
+          "line": 31
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
           "column": 0,
           "index": 0,
           "line": 0
@@ -44,7 +44,22 @@
           "line": 0
         }
       }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Javacode/.github/workflows/android.yml",
+      "selection": {
+        "end": {
+          "column": 25,
+          "index": 281,
+          "line": 18
+        },
+        "start": {
+          "column": 25,
+          "index": 281,
+          "line": 18
+        }
+      }
     }
   ],
-  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Javacode/app/build.gradle"
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Javacode/.github/workflows/android.yml"
 }
